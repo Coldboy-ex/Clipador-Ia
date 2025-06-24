@@ -1,4 +1,4 @@
-# Clipador de Vídeos Automático
+h# Clipador de Vídeos Automático
 Transforma vídeos longos em clipes curtos para Reels e Shorts com IA, cortes automáticos e legendas embutidas.
 
 ## Recursos
@@ -14,3 +14,10 @@ Transforma vídeos longos em clipes curtos para Reels e Shorts com IA, cortes au
 - FastAPI, Whisper, FFmpeg
 - Supabase (Auth, DB, Storage)
 - Railway (backend), Vercel (frontend)
+
+
+git init
+git remote add origin https://github.com/Coldboy-ex/clipador-ia.git
+git add .
+git commit -m "Commit inicial do projeto Clipador"
+git push -u origin master
